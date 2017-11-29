@@ -1,5 +1,7 @@
 # QlikGame
 
+### This contains a game to teach QlikView and Qlik Sense Set Analysis
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
 ## Development server
